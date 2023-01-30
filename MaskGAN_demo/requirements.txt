@@ -1,0 +1,9 @@
+-f https://download.pytorch.org/whl/torch_stable.html 
+numpy==1.17.0
+opencv_python_headless==4.7.0.68
+Pillow==6.1.0
+PyQt5==5.15.8
+PyYAML==6.0
+torch==0.4.1.post2
+torchvision==0.2.2
+gdown==4.6.0
